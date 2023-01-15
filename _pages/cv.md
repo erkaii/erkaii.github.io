@@ -30,6 +30,7 @@ Skills
 * JavaScript
 * SQL
 * MATLAB
+
 ### Tools:
 * Linux, MongoDB, MySQL, PyTorch
 
@@ -40,15 +41,12 @@ Selected Honors
   
 Work Experience
 ======
-### Course Assistant of ECE 391 Computer Systems Engineering. 
-<div style="text-align: right">Spring, 2023</div>
+### Course Assistant of ECE 391 Computer Systems Engineering. Spring, 2023
 
 Research Experience
 ======
-### Embedded system programming for laboratory machines.
-<div style="text-align: right">July - Aug 2021</div>
-### Unsupervised anomaly detection in computer vision.
-<div style="text-align: right">Jan - June 2022</div>
+### Embedded system programming for laboratory machines. July - Aug 2021
+### Unsupervised anomaly detection in computer vision. Jan - June 2022
 
 Projects
 ======
