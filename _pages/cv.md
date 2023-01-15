@@ -11,49 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+University of Illinois at Urbana-Champaign, The Grainger College of Engineering <div style="text-align: right">Expected June 2024</div>
+* Bachelor of Science in Computer Engineering
+* Cumulative GPA: 3.93/4.0
+* Relevant coursework: Operating Systems Engineering, Anomaly Detection, Database Systems, Algorithms and Data Structures. Zhejiang University, ZJUI Institute
+Zhejiang University, ZJUI Institute<div style="text-align: right">Expected June 2024</div>
+* Bachelor of Engineering in Electric and Computer Engineering
+* Cumulative GPA: 3.96/4.0
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Programming languages:
+* C/C++
+* Python
+* JavaScript
+* SQL
+* MATLAB
+Tools:
+* Linux, MongoDB, MySQL, PyTorch
 
-Publications
+Selected Honors
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Third Class Scholarship of ZJUI 2020-2021
+* Dean’s List of UIUC, 2020-2021
   
-Talks
+Work Experience
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* Course Assistant of ECE 391 Computer Systems Engineering. <div style="text-align: right">Spring, 2023</div>
+
+Research Experience
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+Embedded system programming for laboratory machines.<div style="text-align: right">July - Aug 2021</div>
+Unsupervised anomaly detection in computer vision.<div style="text-align: right">Jan - June 2022</div>
+
+Projects
 ======
-* Currently signed in to 43 different slack teams
+Automatic vaccine distribution database, a command line tool for coursework.<div style="text-align: right">Feb – June 2022</div>
+* A system capable of receiving more than 10,000 registration a day.
+* Implement efficient data structures to construct a database with C++.
+* Command line tool, with a built-in shell for users to interact.
+Unsupervised anomaly detection in computer vision.<div style="text-align: right">Jan – June 2022</div>
+* A framework based on Contrastive Learning for unsupervised anomaly detection.
+* Implemented with PyTorch.
+A 32-bit x86 operating system built from scratch.<div style="text-align: right">Oct – Dec 2022</div>
+* A basic operating system that supports multiple system calls with a terminal
+* Written in C
+* Multi-threading support
