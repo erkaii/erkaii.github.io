@@ -13,7 +13,7 @@ main:
 #    url: /portfolio/
         
   - title: "My Blog"
-    url: https://erkaiyublog.github.io/_blank
+    url: https://erkaiyublog.github.io/
     
   - title: "CV"
     url: /cv/
