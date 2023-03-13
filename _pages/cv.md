@@ -61,7 +61,7 @@ Projects
 * A framework based on Contrastive Learning for unsupervised anomaly detection.
 * Implemented with PyTorch.
 
-### A 32-bit x86 operating system built from scratch.
+### A 32-bit x86 operating system built from scratch. [online demo](https://391os-demo.vercel.app/)
 <div style="text-align: right">Oct – Dec 2022</div>
 * A basic operating system that supports multiple system calls with a terminal
 * Written in C
